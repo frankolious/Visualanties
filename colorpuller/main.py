@@ -1,6 +1,6 @@
 # Import Modules
 import os
-import numpy as np
+cd import numpy as np
 from PIL import Image
 from flask import Flask, render_template, flash, request, redirect, url_for
 from flask_bootstrap import Bootstrap
