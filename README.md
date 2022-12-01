@@ -5,7 +5,12 @@
 
 
 ### A microservice setup for visual artists to create content and pull and prepare useful information to help them better plan events
+### Trunk Based Dev (main only) not branching, Super fast CI for building new tek into production.
+### this is the model for no more PULL and Merge request.
 
-[ ]
-[ ]
+## lets stay AGILE!
+
+![ ] not done
+
+![x ] done
 
