@@ -4,4 +4,5 @@
 
 setup stablke diffusion for Master Trent
 
-![Depthmap for Stable Diffusion](https://www.youtube.com/watch?v=AjXQEXgHWGA)
+
+[Depthmap for Stable Diffusion](https://www.youtube.com/watch?v=AjXQEXgHWGA)
