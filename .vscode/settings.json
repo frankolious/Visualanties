@@ -4,8 +4,13 @@
     "statusBar.background": "#373232",
     "titleBar.activeForeground": "#000",
     "titleBar.inactiveForeground": "#000000CC",
-    "titleBar.activeBackground": "#ff0000",
+    "titleBar.activeBackground": "#d629a5",
     "titleBar.inactiveBackground": "#582758cc",
+    "editor.background": "#312134",
+    "editor.foreground": "#d4d4d4",
+    "editorIndentGuide.background": "#404040",
+    "editorRuler.foreground": "#333333",
+    "activityBarBadge.background": "#007acc",
+    "sideBarTitle.foreground": "#bbbbbb",
   },
-
 }

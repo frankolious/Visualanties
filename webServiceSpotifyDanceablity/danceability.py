@@ -4,3 +4,4 @@ curl --request GET \
   --header 'Content-Type: application/json'
 
 #api tokens only last 1hour sort safe
+# sudo usermod -aG docker $pi
