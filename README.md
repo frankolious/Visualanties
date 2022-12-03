@@ -55,3 +55,50 @@ Good luck, and whatever you do - iterate over the solution and add to it increme
 
 / [Fredrik @](https://fredrik.wendt.se/2017/02/23/advice-on-multi-repo-ci-cd/)
 
+# AUTOMATING DOCUMENTATION
+## Conversion
+To enable the combination of documentation in different formats to ease management and rendering, you might need to convert to create a unified format.
+
+[Pandoc](http://pandoc.org/) - One of my favorite tools. Converts between a wide variety of markup formats, but no API specification formats.
+
+[Swagger2Markup](https://github.com/Swagger2Markup/swagger2markup) - Converts Swagger to AsciiDoc or Markdown.
+
+[API Spec Converter](https://lucybot-inc.github.io/api-spec-converter/) - Converts between Swagger (V1 and 2), Open API 3, API Blueprint, RAML, WADL, and others.
+
+[apib2swagger](https://github.com/kminami/apib2swagger) - Converts API Blueprint to Swagger.
+
+[swagger2blueprint](https://github.com/apiaryio/swagger2blueprint) - Converts Swagger to API Blueprint.
+
+[Apimatic Transformer](https://apimatic.io/transformer) - Converts between a wide variety of specifications including Postman.
+
+[apiary2postman](https://github.com/thecopy/apiary2postman) - Convert API Blueprint to Postman.
+
+[Blueman](https://github.com/pixelfusion/blueman) - Convert API Blueprint to Postman.
+
+[apib2json](https://github.com/o5/apib2json) - Convert API Blueprint to JSON.
+
+## Transclusion
+Transclusion is a term that I use to mean including the contents of one document in another. You might call it linking, inclusion, cross-referencing, or something else. But for our purposes, it will be how we include a variety of sources of information (API references and linking explanatory text) into a series of files for rendering. Many markup languages will do this for you by default, while others will need 'encouragement'.
+
+Markdown doesn't include other files by default, but you have options with 
+
+[hercule](https://github.com/jamesramsay/hercule), 
+[MultiMarkdown](http://fletcher.github.io/MultiMarkdown-5/transclusion.html) or, as part of your rendering pipeline, a static site generator like Jekyll.
+
+[Asciidoctor](http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#include-files) is a widely used toolchain for Asciidoc seamlessly handles including other sources.
+
+[reStructuredText](http://docutils.sourceforge.net/docs/ref/rst/directives.html#including-an-external-document-fragment) can include external files by default.
+
+If you want to enter the topic-based world, then dita includes cross-referencing for code and text. Docbook has text objects and includes.
+
+Planning is all part of the puzzle
+How far can we push the browser.
+can we take on some of the processing leg work?
+can canvas cooK?
+[D3js](https://d3js.org/)
+[threejs](https://threejs.org/examples/#webgl_instancing_performance)
+gave us 10000 instnaced suzanne monkey heads  with 1 gpu call at about 25=60 frames. BUt yes its all code. maybe the worlds and everything we do here needs to be code only
+[cable.gl] webgl live coding editor
+[undev](https://interactiveimmersive.io/blog/technology/why-you-should-check-out-cables-gl/)
+
+undev is a Berlin / Cologne based development and design studio for interactive experiences using modern web technologies. We push the boundaries of what’s possible using WebGL, Web Audio and WebVR.
