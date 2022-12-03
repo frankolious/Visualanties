@@ -5,21 +5,22 @@
 </head>
 <body>
     <h1>Spotify Web Playback SDK Quick Start</h1>
+    <hr>
     <button id="togglePlay">Toggle Play</button>
 
     <script src="https://sdk.scdn.co/spotify-player.js"></script>
     <script>
-        window.onSpotifyWebPlaybackSDKReady = () => {
-            const token = 'BQCZlNmfcZNd7GunOP0-lNKstTVpjnBMbwTitFN__cmhKtXZdFcYo_VqivVQmmyL7AyD_y_wcM11erpK4cWjkOlFq7yGeDzXrsVMNBSzBbDjFs7tcEPE-91zdIh9IbUisHOMEcaHRVWUWyLstAY4Se0RgmO4vUwXVaAd2TQKr1cWDA80O0l9tTz6Nxf5s30UXFrjJnUlgIdtmohP2_K9xbv9sNo';
-            const player = new Spotify.Player({
-                name: 'Web Playback SDK Quick Start Player',
-                getOAuthToken: cb => { cb(token); },
-                volume: 0.5
+            window.onSpotifyWebPlaybackSDKReady = () => {
+                const token = 'BQCZlNmfcZNd7GunOP0-lNKstTVpjnBMbwTitFN__cmhKtXZdFcYo_VqivVQmmyL7AyD_y_wcM11erpK4cWjkOlFq7yGeDzXrsVMNBSzBbDjFs7tcEPE-91zdIh9IbUisHOMEcaHRVWUWyLstAY4Se0RgmO4vUwXVaAd2TQKr1cWDA80O0l9tTz6Nxf5s30UXFrjJnUlgIdtmohP2_K9xbv9sNo';
+                const player = new Spotify.Player({
+                    name: 'Web Playback SDK Quick Start Player',
+                    getOAuthToken: cb => { cb(token); },
+                    volume: 0.5
             });
 
             // Ready
             player.addListener('ready', ({ device_id }) => {
-                console.log('Ready with Device ID', device_id);
+                console.log('Ready with Device ID from frankolious', device_id);
             });
 
             // Not Ready

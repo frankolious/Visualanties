@@ -9,10 +9,10 @@
 ### this is the model for no more PULL and Merge request.
 
 ## lets stay AGILE!
+![THINGS TO START SEEING THIS WHOLE PICTURE](Planning/IDEA%20GENERATION.jpg)
+[ x ] [figma IDEAs](https://www.figma.com/file/bYTNJkb8p1iBB3xUQnBK4u/IDEA-GENERATION?node-id=1%3A322&t=CW35bxcjSYKEAfOM-1) KANBAN BOARD - i tried to group ideas or features or whatever they are by colour. Its more about ideas then sorting.
 
-![ ] not done
-
-![x ] done
+[ x ] done
 
 # Advice On Multi-Repo CI/CD
 
