@@ -13,4 +13,5 @@
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb",
   },
+  "python.pipenvPath": "pipenv"
 }
