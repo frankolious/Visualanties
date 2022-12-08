@@ -1,34 +1,61 @@
-# Visualanties <img src="https://user-images.githubusercontent.com/1236067/205092392-d81a75fd-4482-4d4e-854c-d7b73756e1d2.png" width="160" height="160" />
+ <img src="https://user-images.githubusercontent.com/1236067/205092392-d81a75fd-4482-4d4e-854c-d7b73756e1d2.png" width="160" height="160" align="centered" />
 
-### LAZER LIGHT ACTION PROJECTION - Code/ Temaples/ Gists/ Automations/ Shaders/ Generative Audio Reactive Worlds all live here!
+ # Visualanties
+
+### LAZER LIGHT ACTION PROJECTION - Code | Temaples | Gists | Automations | Shaders | Generative Audio Reactive Worlds all live here!
 ![AFRIKABURNcropped](https://user-images.githubusercontent.com/1236067/205002357-3910cf35-f13c-48f5-ad45-14173a075a74.jpeg)
 
 
-## A ~~microservice~~  (maybe we do not need everything to be async?) setup 
-for visual artists to create content and pull and prepare useful information to help them better plan events .
 
- _Trunk Based Dev (main only) not branching, Super fast CI for building new tek into production._
-```
+_This is for visual artists, live performers and event organisers to create content and pull and prepare useful information to help them better plan events._
+
+#### Advice On Multi-Repo CI/CD
+
+
 This will probably be a baby monolith with async API services fragmented in from the edge ESI. SSR services for the monolith. Think FastAPI.
 
-this is the model for no more PULL and Merge request.
-print("hello darkArts")
-```
 
 
+
+<hr>
+
+
+###  Build out Scaffolding to be containerized
+- This i s a cloud based development environment.
+###  Add Collaboratory getting started
+
+ - fire it up [![open in collaboratory](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frankolious/Visualanties/blob/main/getting_started_with_Visualanties.ipynb)
+
+### Github Codespaces
+
+
+Build out python project scaffolding
+
+* makefile
+* requirements.txt
+* virtual environment venv
+    * python_library
+* Dockerfile
+* Command-line-tool
+* Microservices
+
+### AWS CLOUDSHELL / LINODE
+
+
+### Command-Line Tools
+
+### Microservices
+
+### Containerized Continous Delivery
+
+<hr>
 
 ## lets stay AGILE!
 ![THINGS TO START SEEING THIS WHOLE PICTURE](Planning/IDEA%20GENERATION.jpg)
 [ x ] [figma IDEAs](https://www.figma.com/file/bYTNJkb8p1iBB3xUQnBK4u/IDEA-GENERATION?node-id=1%3A322&t=CW35bxcjSYKEAfOM-1) KANBAN BOARD - i tried to group ideas or features or whatever they are by colour. Its more about ideas then sorting.
 
-[ x ] done 
 
-# Advice On Multi-Repo CI/CD
 
-Trunk based development. stay away from distributed systems if we can ?/avoid scaling issue with streams 
-ALWAYS first API though
-
-<hr>
 
 ### The Rendering Context
 The _canvas_ is initially blank. To display something on the canvas element, we have to use a scripting language. This scripting language should access the rendering context and draw on it.
@@ -43,7 +70,7 @@ On executing, the above code will produce the following output −
 For more example on HTML-5 2D Canvas, check out the following link HTML-5 Canvas.
 
 ### WebGL Context
-HTML5 Canvas is also used to write WebGL applications. To create a WebGL rendering context on the canvas element, you should pass the string _experimental-webgl_, instead of 2d to the canvas.getContext() method. Some browsers support only 'webgl'.
+HTML5 Canvas is also used to write WebGL applications. To create a WebGL rendering context on the canvas element, you should pass the string experimental-webgl, instead of 2d to the canvas.getContext() method. Some browsers support only 'webgl'.
 
 On executing, the above code will produce the following output −
 
