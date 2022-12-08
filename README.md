@@ -1,6 +1,7 @@
  <img src="https://user-images.githubusercontent.com/1236067/205092392-d81a75fd-4482-4d4e-854c-d7b73756e1d2.png" width="160" height="160" align="centered" />
 
- # Visualanties
+ # Visualanties [![.github/workflows/main.yml](https://github.com/frankolious/Visualanties/actions/workflows/main.yml/badge.svg)](https://github.com/frankolious/Visualanties/actions/workflows/main.yml) [![open in collaboratory](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frankolious/Visualanties/blob/main/getting_started_with_Visualanties.ipynb)
+
 
 ### LAZER LIGHT ACTION PROJECTION - Code | Temaples | Gists | Automations | Shaders | Generative Audio Reactive Worlds all live here!
 ![AFRIKABURNcropped](https://user-images.githubusercontent.com/1236067/205002357-3910cf35-f13c-48f5-ad45-14173a075a74.jpeg)
@@ -43,7 +44,7 @@ Build out python project scaffolding
  - this eliminates you having conflicts with whatever system you are running.
 2. Edit ~/.bashrc   
     - this invokes the virtualEnv but calling venv/bin/activate from the ~/.bash (bourne again shell)
-3. [![.github/workflows/main.yml](https://github.com/frankolious/Visualanties/actions/workflows/main.yml/badge.svg)](https://github.com/frankolious/Visualanties/actions/workflows/main.yml)
+3. 
 4. 
 
 will try add a badge that automates all of this later
