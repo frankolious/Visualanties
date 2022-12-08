@@ -25,8 +25,29 @@ print("hello darkArts")
 
 # Advice On Multi-Repo CI/CD
 
-Published Thursday February 23, 2017. 
+Trunk based development. stay away from distributed systems if we can ?/avoid scaling issue with streams 
+ALWAYS first API though
 
+<hr>
+
+### The Rendering Context
+The _canvas_ is initially blank. To display something on the canvas element, we have to use a scripting language. This scripting language should access the rendering context and draw on it.
+
+The canvas element has a DOM method called getContext(), which is used to obtain the rendering context and its drawing functions. This method takes one parameter, the type of context 2d.
+
+The following code is to be written to get the required context. You can write this script inside the body tag as shown below.
+
+On executing, the above code will produce the following output −
+
+
+For more example on HTML-5 2D Canvas, check out the following link HTML-5 Canvas.
+
+### WebGL Context
+HTML5 Canvas is also used to write WebGL applications. To create a WebGL rendering context on the canvas element, you should pass the string _experimental-webgl_, instead of 2d to the canvas.getContext() method. Some browsers support only 'webgl'.
+
+On executing, the above code will produce the following output −
+
+<hr>
 
 A Scrum.org colleague asked for advice on what to think of when helping someone with Continuous Integration (and later Delivery/Deployment). In this case, the person had experience from one team and one source code repo (or very limited set of repos), but was keen to hear about what might (context is king) be the case for multiple teams, multiple repos. Here’s my quick brain dump reply.
 
