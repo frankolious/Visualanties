@@ -40,12 +40,13 @@ Build out python project scaffolding
 * Command-line-tool
 * Microservices
 
+#  <u>SIMPLE SETUP STEPS<u>
 1. Create a virtual enviroment, 
  - this eliminates you having conflicts with whatever system you are running.
-2. Edit ~/.bashrc   
-    - this invokes the virtualEnv but calling venv/bin/activate from the ~/.bash (bourne again shell)
-3. 
-4. 
+2. Edit `nano ~/.bashrc `
+    - this invokes the virtualEnv but calling 
+    - `source venv/bin/activate` from the ~/.bash (bourne again shell)
+3. `make all` this runs linting tests and a bunch of make jobs - see makefile above. 
 
 will try add a badge that automates all of this later
 
