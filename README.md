@@ -39,6 +39,15 @@ Build out python project scaffolding
 * Command-line-tool
 * Microservices
 
+1. Create a virtual enviroment, 
+ - this eliminates you having conflicts with whatever system you are running.
+2. Edit ~/.bashrc   
+    - this invokes the virtualEnv but calling venv/bin/activate from the ~/.bash (bourne again shell)
+3. 
+4. 
+
+will try add a badge that automates all of this later
+
 ### AWS CLOUDSHELL / LINODE
 
 
