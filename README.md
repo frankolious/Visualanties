@@ -1,6 +1,6 @@
  <img src="https://user-images.githubusercontent.com/1236067/205092392-d81a75fd-4482-4d4e-854c-d7b73756e1d2.png" width="160" height="160" align="centered" />
 
- # Visualanties [![.github/workflows/main.yml](https://github.com/frankolious/Visualanties/actions/workflows/main.yml/badge.svg)](https://github.com/frankolious/Visualanties/actions/workflows/main.yml) [![open in collaboratory](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frankolious/Visualanties/blob/main/getting_started_with_Visualanties.ipynb)
+ # Visualanties [![.github/workflows/main.yml](https://github.com/frankolious/Visualanties/actions/workflows/main.yml/badge.svg)](https://github.com/frankolious/Visualanties/actions/workflows/main.yml) [![open in collaboratory](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frankolious/Visualanties/blob/main/getting_started_with_Visualanties.ipynb) [Open Figma Ideas ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/bYTNJkb8p1iBB3xUQnBK4u/IDEA-GENERATION?node-id=1%3A322&t=CW35bxcjSYKEAfOM-1) 
 
 
 ### LAZER LIGHT ACTION PROJECTION - Code | Temaples | Gists | Automations | Shaders | Generative Audio Reactive Worlds all live here!
@@ -60,9 +60,10 @@ will try add a badge that automates all of this later
 
 <hr>
 
-## lets stay AGILE!
+## lets stay AGILE! [figma Project IDEAs ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/bYTNJkb8p1iBB3xUQnBK4u/IDEA-GENERATION?node-id=1%3A322&t=CW35bxcjSYKEAfOM-1) 
+
 ![THINGS TO START SEEING THIS WHOLE PICTURE](Planning/IDEA%20GENERATION.jpg)
-[ x ] [figma IDEAs](https://www.figma.com/file/bYTNJkb8p1iBB3xUQnBK4u/IDEA-GENERATION?node-id=1%3A322&t=CW35bxcjSYKEAfOM-1) KANBAN BOARD - i tried to group ideas or features or whatever they are by colour. Its more about ideas then sorting.
+[ x ] KANBAN BOARD - i tried to group ideas or features or whatever they are by colour. Its more about ideas then sorting.
 
 
 
