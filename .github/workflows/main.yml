@@ -1,1 +1,3 @@
-
+name: Triggers  workflow for CI CD on Visualanties code bases.
+on: [push]
+jobs: 

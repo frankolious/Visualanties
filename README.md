@@ -43,7 +43,7 @@ Build out python project scaffolding
  - this eliminates you having conflicts with whatever system you are running.
 2. Edit ~/.bashrc   
     - this invokes the virtualEnv but calling venv/bin/activate from the ~/.bash (bourne again shell)
-3. 
+3. [![.github/workflows/main.yml](https://github.com/frankolious/Visualanties/actions/workflows/main.yml/badge.svg)](https://github.com/frankolious/Visualanties/actions/workflows/main.yml)
 4. 
 
 will try add a badge that automates all of this later
