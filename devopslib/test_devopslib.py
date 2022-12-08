@@ -1,3 +1,3 @@
 from devopslib.hello import hello
-
-assert name="frankolious"
+#    assert name = "frankolious"
+#    return name

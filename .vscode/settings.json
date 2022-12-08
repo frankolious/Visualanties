@@ -36,5 +36,8 @@
    
   
   "python.pipenvPath": "venv",
+  "cSpell.words": [
+    "devopslib"
+  ],
   
 }
