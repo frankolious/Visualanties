@@ -9,7 +9,8 @@ lint:
 	pylint --disable=R,C *.py devopslib
 
 test:
-	python -m pytest -vv test_*.py
+	python -m pytest -vvv --cov=devopslib test_*.py
+
 
 format:
 	black *.py devopslib/*.py 
