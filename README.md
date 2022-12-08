@@ -22,8 +22,8 @@ This will probably be a baby monolith with async API services fragmented in from
 
 
 ###  Build out Scaffolding to be containerized
-- This i s a cloud based development environment.
-###  Add Collaboratory getting started
+- This is a cloud based development environment.
+###  [Collaboratory](https://github.com/frankolious/Visualanties/blob/main/getting_started_with_Visualanties.ipynb)
 
  - fire it up [![open in collaboratory](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frankolious/Visualanties/blob/main/getting_started_with_Visualanties.ipynb)
 
@@ -32,8 +32,8 @@ This will probably be a baby monolith with async API services fragmented in from
 
 Build out python project scaffolding
 
-* makefile
-* requirements.txt
+* [makefile](https://github.com/frankolious/Visualanties/blob/main/Makefile)
+* [requirements.txt](https://github.com/frankolious/Visualanties/blob/main/requirements.txt)
 * virtual environment venv
     * python_library
 * Dockerfile
