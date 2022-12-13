@@ -8,7 +8,7 @@
 
 
 
-_This is for visual artists, live performers and event organisers to create content and pull and prepare useful information to help them better plan events._
+_This is for visual artists, live performers and event organisers to previzualize their 3D space with content (shaders), trussing and lighting, decorum and projection mapping of Branding (svg animations from rive.app) and export useful information to help acquire sign off for funding._
 
 #### Advice On Multi-Repo CI/CD
 
